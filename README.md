@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohankrgupta
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/rohankrgupta/count.svg)
 
 <!---
 rohankrgupta/rohankrgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
