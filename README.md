@@ -63,6 +63,6 @@ __Codeforces__: [pugnahor](https://codeforces.com/profile/pugnahor) <br/>
 
  <h3 align="left">Contact and Social:</h3>
 
- :blue_heart:Connect with me on [LinkedIn]([https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/](https://www.linkedin.com/in/rohan-kr-gupta-173b8a18a/))<br/>
+ :blue_heart:Connect with me on [LinkedIn](https://www.linkedin.com/in/sneha-chattopadhyay-a390741a7/](https://www.linkedin.com/in/rohan-kr-gupta-173b8a18a/))<br/>
  :purple_heart: Follow me on [Quora](https://www.quora.com/profile/Rohan-Gupta-1285)<br/>
  :orange_heart: Drop me a [mail](mailto:rohankrgupta2000@gmail.com)
