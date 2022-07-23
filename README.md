@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 * ✍🏻 Recipient of the __[Student Grant Award at ICAART 2022, Portugal](https://icaart.scitevents.org/)__ for promising research in artificial intelligence.<br/>
 * ✍🏻 India Semi-finalist in  __[JPMC Code for Good Event](https://careers.jpmorgan.com/us/en/students/programs/code-for-good)__  for the year 2022.<br/>
 * ✍🏻 Undergraduate Research Assistant at __NIT Durgapur__.<br/>
-* ✍🏻 Senior Event Coordinator at __[IEEE CS Society](https://www.ieeesbnitdgp.com/)__ of NIT Durgapur.<br/>
+* ✍🏻 Senior Event Coordinator at __[IEEE CS Society]__ of NIT Durgapur.<br/>
 * ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
 * ✍🏻 Technical Content Writer at __[Scaler](https://www.scaler.com/topics/)__.<br/>
 * ✍🏻 __Managed Network Expert__ for Computer Science at __[Chegg](https://www.chegg.com/)__.<br/>
