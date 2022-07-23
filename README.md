@@ -17,8 +17,6 @@ You can click the Preview link to take a look at your changes.
 * ✍🏻 Undergraduate Research Assistant at __[NIT Durgapur](https://nitdgp.ac.in/)__.<br/>
 * ✍🏻 Senior Event Coordinator at __IEEE CS Society__ of NIT Durgapur.<br/>
 * ✍🏻 Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
-* ✍🏻 Technical Content Contributor at __[Algozenith](https://www.scaler.com/topics/)__.<br/>
-* ✍🏻 __Managed Network Expert__ for Computer Science at __[Chegg](https://www.chegg.com/)__.<br/>
 * ✍🏻 Fest Coordinator at __Aarohan__, the second largest technical fest of Eastern India.<br/>
 
 
