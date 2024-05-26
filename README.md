@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">My Interests: </h3> 
 
 * I enjoy doing __Competitive Programming__, __Machine learning__ and __Web Development__. <br/>
-* I'm looking to collaborate on __Deep learning__, __Java Spring__ projects.<br/>
+* I'm looking to collaborate on __Deep learning__, __Microservices__.<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
