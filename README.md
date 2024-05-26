@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 * ✍🏻 Undergraduate Research Assistant at __[NIT Durgapur](https://nitdgp.ac.in/)__.<br/>
 * ✍🏻 Technical Content Contributor at __[GeeksforGeeks](https://www.geeksforgeeks.org/)__.<br/>
 * ✍🏻 AWS Certified Cloud Practioner  and Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
-* ✍🏻 Fest Coordinator at __Aarohan__, the second largest technical fest of Eastern India.<br/>
+// * ✍🏻 Fest Coordinator at __Aarohan__, the second largest technical fest of Eastern India.<br/>
 
 
 
