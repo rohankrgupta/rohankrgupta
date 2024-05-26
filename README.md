@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">I am:</h3>
 
-* ✍🏻 A final year undergraduate at NIT Durgapur.<br/>
+* ✍🏻 A Software Engineer I at JP Morgan Chase & Co.<br/>
+* ✍🏻 Graduated with Distinction being among top 5% in the department of CSE from NIT Durgapur.<br/>
 * ✍🏻 Recipient of the __[Student Grant Award at ICAART 2022, Portugal](https://icaart.scitevents.org/)__ for promising research in artificial intelligence.<br/>
 * ✍🏻 India finalist in  __[JPMC Code for Good Event](https://careers.jpmorgan.com/us/en/students/programs/code-for-good)__  for the year 2022.<br/>
 * ✍🏻 Undergraduate Research Assistant at __[NIT Durgapur](https://nitdgp.ac.in/)__.<br/>
