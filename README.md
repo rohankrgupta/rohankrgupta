@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## Welcome to my profile :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankrgupta&label=Profile%20Views This Month &color=0e75b6&style=flat" alt="rohankrgupta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankrgupta&label=Profile%20Views" alt="rohankrgupta" /> This Month</p>
 
 <h3 align="left">I am:</h3>
 
