@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">I am:</h3>
 
 * ✍🏻 A Software Engineer I at JP Morgan Chase & Co.<br/>
-* ✍🏻 Graduated with Distinction being among top 5% in the department of CSE from NIT Durgapur.<br/>
+* ✍🏻 Graduated with Distinction being among top 5% in CSE from NIT Durgapur.<br/>
 * ✍🏻 Recipient of the __[Student Grant Award at ICAART 2022, Portugal](https://icaart.scitevents.org/)__ for promising research in artificial intelligence.<br/>
 * ✍🏻 AWS Certified Cloud Practioner  and Recipient of __[AWS Machine Learning Scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)__, conducted by AWS and Udacity.<br/>
 * ✍🏻 India finalist in  __[JPMC Code for Good Event](https://careers.jpmorgan.com/us/en/students/programs/code-for-good)__  for the year 2022.<br/>
