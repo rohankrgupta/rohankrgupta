@@ -18,11 +18,7 @@ You can click the Preview link to take a look at your changes.
 * ✍🏻 India finalist in  __[JPMC Code for Good Event](https://careers.jpmorgan.com/us/en/students/programs/code-for-good)__  for the year 2022.<br/>
 * ✍🏻 Technical Content Contributor and Mentor at __[Algozenith](https://maang.in/)__.<br/>
 * ✍🏻 Undergraduate Research Assistant at __[NIT Durgapur](https://nitdgp.ac.in/)__.<br/>
-
-
-<* ✍🏻 Fest Coordinator at __Aarohan__, the second largest technical fest of Eastern India.<br/>>
-
-
+<!-- * ✍🏻 Fest Coordinator at __Aarohan__, the second largest technical fest of Eastern India.<br/> -->
 
 
 <h3 align="left">My Interests: </h3> 
