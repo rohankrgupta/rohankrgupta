@@ -25,4 +25,5 @@ You can click the Preview link to take a look at your changes.
 
 
  <h3 align="left">Contact and Social:</h3>
+ 
  <br>Connect with me on  __[LinkedIn](https://www.linkedin.com/in/rohankgpt/)__ <br/>
