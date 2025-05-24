@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 * ✍🏻 Software Engineer at JP Morgan Chase & Co.<br/>
 * ✍🏻 Graduated with Distinction being among top 5% in CSE from NIT Durgapur.<br/>
-* ✍🏻 Recipient of the __[Student Grant Award at ICAART 2022, Portugal](https://icaart.scitevents.org/)__ for promising research in AI.<br/>
+* ✍🏻 Recipient of the __[Student Grant Award at ICAART 2022, Portugal](https://icaart.scitevents.org/)__ <br/>
 * ✍🏻 India finalist in  __[JPMC Code for Good Hackathon](https://careers.jpmorgan.com/us/en/students/programs/code-for-good)__  for the year 2022.<br/>
 
 
