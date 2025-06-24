@@ -2,8 +2,6 @@
 rohankrgupta/rohankrgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi there, This is Rohan Gupta </h1>
-
 ## Hi, I'm Rohan 👋 :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankrgupta&label=Profile%20Views" This Month alt="rohankrgupta" /> </p>
 
