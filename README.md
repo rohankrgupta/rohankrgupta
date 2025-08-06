@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">I am:</h3>
 
-* ❄️ Incoming Graduate Student at Dept of CS, UW Madison.<br/>
+* ❄️ Graduate Student at Dept of CS, UW Madison.<br/>
 * 🧑‍💻 Analyst at JPMorganChase. <br/>
 * ✍🏻 Recipient of the __[Student Grant Award at ICAART 2022, Portugal](https://icaart.scitevents.org/)__ <br/>
 * 📝 India finalist in  __[JPMC Code for Good Hackathon](https://careers.jpmorgan.com/us/en/students/programs/code-for-good)__  for the year 2022.<br/>
